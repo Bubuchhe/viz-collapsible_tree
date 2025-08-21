@@ -1,31 +1,18 @@
 {
   "name": "Collapsible Tree Viz",
-  "version": "1.0",
-  "author": {
-    "name": "Bubuchhe",
-    "email": "contact@example.com"
-  },
+  "id": "collapsible_tree_marketplace",
+  "script": "https://bubuchhe.github.io/viz-collapsible_tree/collapsible_tree.js",
+  "style": "https://bubuchhe.github.io/viz-collapsible_tree/collapsible_tree.css",
+  "icon": "https://bubuchhe.github.io/viz-collapsible_tree/icon.png",
   "description": "A collapsible tree visualization for Looker Studio.",
-  "iconUrl": "https://bubuchhe.github.io/viz-collapsible_tree/icon.png",
-  "supportUrl": "https://github.com/bubuchhe/viz-collapsible_tree",
-  "datastudio": {
-    "visualization": {
-      "id": "collapsible_tree_marketplace",
-      "name": "Collapsible Tree Viz",
-      "description": "A collapsible tree visualization for Looker Studio.",
-      "supportUrl": "https://github.com/bubuchhe/viz-collapsible_tree",
-      "script": "https://bubuchhe.github.io/viz-collapsible_tree/collapsible_tree.js",
-      "css": "https://bubuchhe.github.io/viz-collapsible_tree/collapsible_tree.css",
-      "fields": {
-        "dimensions": {
-          "min": 1,
-          "max": 6
-        },
-        "metrics": {
-          "min": 0,
-          "max": 1
-        }
-      }
+  "fields": {
+    "dimensions": {
+      "min": 1,
+      "max": 6
+    },
+    "metrics": {
+      "min": 0,
+      "max": 1
     }
   }
 }
