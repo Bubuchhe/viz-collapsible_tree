@@ -2,8 +2,6 @@
   "name": "Collapsible Tree Viz",
   "id": "collapsible_tree_marketplace",
   "script": "https://bubuchhe.github.io/viz-collapsible_tree/collapsible_tree.js",
-  "style": "https://bubuchhe.github.io/viz-collapsible_tree/collapsible_tree.css",
-  "icon": "https://bubuchhe.github.io/viz-collapsible_tree/icon.png",
   "description": "A collapsible tree visualization for Looker Studio.",
   "fields": {
     "dimensions": {
