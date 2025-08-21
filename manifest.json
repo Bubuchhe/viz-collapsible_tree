@@ -1,7 +1,7 @@
 {
   "name": "Collapsible Tree Viz",
   "id": "collapsible_tree_marketplace",
-  "script": "https://Bubuchhe.github.io/viz-collapsible_tree/collapsible_tree.js",
+  "script": "https://bubuchhe.github.io/viz-collapsible_tree/collapsible_tree.js",
   "fields": {
     "dimensions": {
       "min": 1,
